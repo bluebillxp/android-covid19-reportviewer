@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">COVID-19 Daily Report</string>
+    <string name="app_subtitle">Source: JHU CSSE, Date: %s</string>
+    <string name="app_subtitle_loading">Source: CSSE@JHU, Date: loading…</string>
+    <string name="indicator_increase">+</string>
+    <string name="indicator_decrease">-</string>
+    <string name="name_separator">, </string>
+    <string name="global_title_countries">Reported Countries</string>
+    <string name="global_title_provinces">Reported Provinces</string>
+    <string name="global_title_confirmed_cases">Total Confirmed</string>
+    <string name="global_title_deaths">Total Deaths</string>
+    <string name="global_title_recovered_cases">Total Recovered</string>
+    <string name="global_default">Loading…</string>
+    <string name="positive_value">+%s</string>
+    <string name="terms_of_use_title">Terms of Use</string>
+    <string name="terms_of_use_content">
+        This application is to help individuals who are consuming the COVID-19
+        daily reports open-sourced by the Johns Hopkins University Center for
+        Systems Science and Engineering (JHU CSSE). The data source is
+        specifically connected to the master branch of
+        GitHub/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/.
+        \n\n
+        All its implementations herein, including all
+        files, copyright 2020 bluebillxp, all rights reserved, is provided to
+        the public strictly for Android development purposes.
+        \n\n
+        The author hereby disclaims any and all representations and warranties
+        with respect to the COVID-19 data presented, including accuracy, fitness
+        for use, and merchantability. Reliance on the application for medical
+        guidance or commercial use is strictly prohibited.
+        \n\n
+        By accessing this application, you have also agreed with the terms of use
+        of [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+        claimed by Johns Hopkins University Center for Systems Science and
+        Engineering (JHU CSSE).
+    </string>
+</resources>
