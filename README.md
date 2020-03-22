@@ -14,6 +14,9 @@ techniques aimed to share with the knowledge of how to aggregate, store
 and display data available on public GitHub projects on modern
 practices.
 
+## Demo
+![Demo](screenshots/demo.gif)
+
 ## Android modules and techniques used in this repo
 * Kotlin basis
 * AndroidX architecture components
@@ -66,6 +69,7 @@ practices.
 * [https://blog.mindorks.com/shared-viewmodel-in-android-shared-between-fragments]()
 * [https://spin.atomicobject.com/2019/04/01/android-room-tips/]()
 * [https://android.jlelse.eu/manage-rest-api-with-okhttp3-retrofit2-gson-and-rxjava2-aa5bea1e8a92]()
+* [https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c]()
 * [https://codingwithmitch.com/]()
 * [https://www.youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118]()
 * [https://github.com/square/retrofit]()
