@@ -40,4 +40,15 @@ open class CSSEJHUDailyReport(
     var activated: Boolean = true,
     @ColumnInfo(name = "date_added", defaultValue = "CURRENT_TIMESTAMP")
     var dateAdded: Long = System.currentTimeMillis()
-)
+) {
+    companion object {
+        val RAW_HEADER_PROVINCE = arrayOf("Province_State", "Province/State")
+        val RAW_HEADER_COUNTRY = arrayOf("Country_Region", "Country/Region")
+        val RAW_HEADER_LAST_UPDATE = arrayOf("Last_Update", "Last Update")
+        val RAW_HEADER_LATITUDE = arrayOf("Lat", "Latitude")
+        val RAW_HEADER_LONGITUDE = arrayOf("Long_", "Longitude")
+        val RAW_HEADER_CONFIRMED = arrayOf("Confirmed", "Confirmed")
+        val RAW_HEADER_DEATHS = arrayOf("Deaths", "Deaths")
+        val RAW_HEADER_RECOVERED = arrayOf("Recovered", "Recovered")
+    }
+}
