@@ -1,3 +1,5 @@
+![master](https://github.com/bluebillxp/android-covid19-reportviewer/workflows/master/badge.svg)
+
 # COVID-19 Daily Report Viewer for Android
 This repository is to help individuals who are consuming the COVID-19
 daily reports open-sourced by the Johns Hopkins University Center for
