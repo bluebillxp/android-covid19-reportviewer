@@ -37,9 +37,9 @@ practices.
 * Translucent status bar
 
 ## On-going items
-* Unit Tests
-* Proguard enabling
 * Time series data
+* Adminstrative district category
+* Unit Tests
 
 ## References:
 * Android Developer: [https://developer.android.com/]()
