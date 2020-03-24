@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         setWindowFlag(this, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS, false)
-        window.statusBarColor = ContextCompat.getColor(applicationContext, R.color.actionbarPrimary)
+        window.statusBarColor = ContextCompat.getColor(applicationContext, R.color.colorPrimary)
 
         setContentView(R.layout.main_viewpager)
 
@@ -51,10 +51,10 @@ class MainActivity : AppCompatActivity() {
         TabLayoutMediator(tabLayout, viewPager, true,
             TabLayoutMediator.TabConfigurationStrategy { tab, position ->
                 when (position) {
-                    0 -> tab.text = "Global"
-                    1 -> tab.text = "Country/Region"
-                    2 -> tab.text = "Province/State"
-                    3 -> tab.text = "About"
+                    0 -> tab.text = resources.getText(R.string.item_title_global)
+                    1 -> tab.text = resources.getText(R.string.item_title_country)
+                    2 -> tab.text = resources.getText(R.string.item_title_province)
+                    3 -> tab.text = resources.getText(R.string.item_title_about)
                 }
             }).attach()
     }

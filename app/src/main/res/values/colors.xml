@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="actionbarPrimary">#376DF6</color>
-    <color name="actionbarPrimaryDark">#00574B</color>
-    <color name="actionbarAccent">#D81B60</color>
-    <color name="colorPrimary">#FCFCFC</color>
-    <color name="colorPrimaryDark">#2A2E43</color>
-    <color name="colorAccent">#FF402D</color>
-    <color name="bottomNavigationTextColor">#B2B2B2</color>
-    <color name="bottomNavigationTintColor">#B2B2B2</color>
-    <color name="bottomNavigationSelectedColor">#FC4926</color>
+    <color name="colorPrimary">#376DF6</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
     <color name="statusBarColor">#000</color>
     <color name="whiteBodyColor">#FCFCFC</color>
     <color name="darkTextColor">#020000</color>

@@ -52,7 +52,7 @@ android {
 }
 
 dependencies {
-    def room_version = "2.2.4"
+    def room_version = "2.2.5"
     def retrofit_version = "2.7.1"
     def okhttp3_version = "3.14.7"
     def lifecycle_version = "2.2.0"
@@ -65,7 +65,7 @@ dependencies {
 
     // AndroidX Framework
     implementation 'androidx.appcompat:appcompat:1.1.0'
-    implementation 'androidx.fragment:fragment-ktx:1.2.2'
+    implementation 'androidx.fragment:fragment-ktx:1.2.3'
     implementation 'androidx.core:core-ktx:1.2.0'
 
     // AndroidX View/Layout

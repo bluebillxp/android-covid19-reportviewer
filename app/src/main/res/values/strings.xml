@@ -11,6 +11,15 @@
     <string name="global_title_deaths">Total Deaths</string>
     <string name="global_title_recovered_cases">Total Recovered</string>
     <string name="global_default">Loading…</string>
+    <string name="item_title_global">Global</string>
+    <string name="item_title_country">Country/Region</string>
+    <string name="item_title_province">Province/State</string>
+    <string name="item_title_about">About</string>
+    <string name="item_title_confirmed">Confirmed</string>
+    <string name="item_title_deaths">Deaths</string>
+    <string name="item_title_recovered">Recovered</string>
+    <string name="item_value_preview">9999</string>
+    <string name="item_offset_preview">+99</string>
     <string name="positive_value">+%s</string>
     <string name="terms_of_use_title">Terms of Use</string>
     <string name="terms_of_use_content">

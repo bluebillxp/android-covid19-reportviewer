@@ -13,7 +13,7 @@
         android:background="@color/gradientLightBlue"
         app:tabIndicatorColor="@color/gradientViolet"
         app:tabTextColor="@color/whiteTextColor"
-        app:tabSelectedTextColor="@color/colorPrimary"
+        app:tabSelectedTextColor="@color/whiteTextColor"
         app:tabIndicatorFullWidth="true"
         app:tabMode="scrollable"
         app:layout_constraintEnd_toEndOf="parent"
